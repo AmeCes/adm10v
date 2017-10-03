@@ -21,3 +21,5 @@ Códigos del Grupo 10 Vespertino del Diplomado de Diseño Web de ADM
 
 * [Url del Repositorio](https://github.com/jonmircha/adm10v)
 * [Libro para aprender Git](https://git-scm.com/book/es/v1)
+* [HTML Reference](http://htmlreference.io/)
+* [CSS Reference](http://cssreference.io/)
