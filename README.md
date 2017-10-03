@@ -23,3 +23,7 @@ Códigos del Grupo 10 Vespertino del Diplomado de Diseño Web de ADM
 * [Libro para aprender Git](https://git-scm.com/book/es/v1)
 * [HTML Reference](http://htmlreference.io/)
 * [CSS Reference](http://cssreference.io/)
+
+### Actividades:
+
+1. Traer en un documento de texto: Una breve presentción (Datos Personales, Una foto, Pasatiempos, Datos de Contacto, Una breve descripción)
