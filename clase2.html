@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Introducción a HTML y CSS</title>
+  <meta name="description" content="En este documento damos una pequeña introducción a HTML y CSS.">
+  <style>
+    /* Comentarios en CSS */
+    /* Los 3 selectores básicos de CSS */
+    /* 1. Selectores de Etiquetas */
+    p {
+      color: #F00;
+      /* background: #CCC; */ /* Tengan cuidado cuando utilicen shorthand, por que podrían resetearse otros valores de la propiedad en cuestión */
+      background-color: #CCC;
+    }
+
+    b {
+      background-color: skyblue;
+      color: steelblue;
+    }
+    /* 2. Selector de Identificador */
+    #logo-HTML5 {
+      background-color: rosybrown;
+      text-align: center;
+    }
+    /* 3. Selectores de clases */
+    .redonda { border-radius: 50%; }
+
+    .bg-black { background-color: #000; }
+
+    .bg-blue { background-color: steelblue; }
+
+    .bg-white { background-color: #FFF; }
+
+    .color-black { color: #000; }
+
+    .color-blue { color: steelblue; }
+
+    .color-white { color: #FFF; }
+  </style>
+</head>
+<body>
+  <!-- Comentario en HTML -->
+  <section>
+    <figure id="logo-HTML5">
+      <img class="redonda bg-blue" src="https://camo.githubusercontent.com/af424bfdf208b37cfcd9afbbca253fbc44ac0133/687474703a2f2f626578746c616e2e636f6d2f696d672f706172612d637572736f732f68746d6c352d6c6f676f2e706e67" alt="HTML5">
+      <figcaption>
+        <h1>HTML5</h1>
+      </figcaption>
+    </figure>
+    <p class="redonda">
+      <b>HTML5</b> es el estándar que definen las tecnologías web. Es la sinergia de 3 tecnologías:
+    </p>
+    <ol>
+      <li><b>HTML:</b> Estructura y Contenido</li>
+      <li><b>CSS:</b>Diseño y Presentación</li>
+      <li><b>JS:</b> Interactividad y Funcionalidad</li>
+    </ol>
+    <p>
+      <b>CSS</b> es un lenguaje basado en reglas que se aplican a selectores. Su objetivo es separar el contenido (HTML) de su presentación.
+    </p>
+    <p>En <b>CSS</b> existen 3 selectores básicos:</p>
+    <ol class="bg-black color-white">
+      <li>
+        Selectores de <b>Etiquetas HTML:</b> Suelen aplicarse para resetear o normalizar los valores iniciales de las etiquetas HTML
+      </li>
+      <li>
+        Selectores de <b>Identificadores:</b> Son elementos únicos que sus reglas no se pueden reutilizar, por tal motivo en los últmos años son considerados  como <strong><em>antipatrones</em></strong> en CSS; y
+      </li>
+      <li>
+        Selectores de <b>Clases:</b> Son elementos que sus reglas se pueden reutilizar en varios elementos, y a su vez, una etiqueta HTMLpuede tener tantas clases como las necesite. Promueven la filosofía de código <strong><em>DRY</em></strong> (<small><b><i>Don't Repeat Yourself</i></b></small>)
+      </li>
+    </ol>
+  </section>
+</body>
+</html>
