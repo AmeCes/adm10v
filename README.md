@@ -15,6 +15,7 @@ Códigos del Grupo 10 Vespertino del Diplomado de Diseño Web de ADM
 * Varinia - vari.tex.7@gmail.com
 * Emmanuel - emmanuel_crisanto@hotmail.com
 * Daniel - danielg14d@icloud.com
+* Cynthia - cynthiamilla@live.com
 
 
 ## Sitios y Recomendaciones para el Diplomado
