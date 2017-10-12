@@ -9,6 +9,10 @@
     /* Comentarios en CSS */
     /* Los 3 selectores básicos de CSS */
     /* 1. Selectores de Etiquetas */
+    html {
+      font-size: 16px;
+    }
+
     p {
       color: #F00;
       /* background: #CCC; */ /* Tengan cuidado cuando utilicen shorthand, por que podrían resetearse otros valores de la propiedad en cuestión */
@@ -38,6 +42,20 @@
     .color-blue { color: steelblue; }
 
     .color-white { color: #FFF; }
+
+    .padre {
+      font-size: 2em;
+    }
+
+    .hijo:first-child {
+      /* El em siempre será relativo al font-size del padre */
+      font-size: 2em;
+    }
+
+    .hijo:last-child {
+      /* El rem siempre será el valor de font-size del html */
+      font-size: 2rem;
+    }
   </style>
 </head>
 <body>
@@ -72,6 +90,15 @@
         Selectores de <b>Clases:</b> Son elementos que sus reglas se pueden reutilizar en varios elementos, y a su vez, una etiqueta HTMLpuede tener tantas clases como las necesite. Promueven la filosofía de código <strong><em>DRY</em></strong> (<small><b><i>Don't Repeat Yourself</i></b></small>)
       </li>
     </ol>
+    <h2>Diferencia entre em y rem</h2>
+    <section class="padre">
+      <article class="hijo">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat recusandae alias consectetur optio inventore laudantium esse illum veniam, laboriosam praesentium accusamus quidem fuga error rem ad asperiores eius non aut?
+      </article>
+      <article class="hijo">
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi tempora cumque ut eaque eos consectetur architecto minima eveniet quae quasi molestiae ullam exercitationem, sint, doloremque magnam vero dolorum aliquid adipisci!
+      </article>
+    </section>
   </section>
 </body>
 </html>
