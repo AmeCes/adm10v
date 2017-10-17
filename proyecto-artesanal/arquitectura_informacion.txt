@@ -6,6 +6,7 @@ Inspiración
   http://bradfrost.com/
 ------------------------------------------
 HOME
+  imagen de fondo (edcamp-bogota-2017.jpg)
   <jonmircha>
   Instructor Web & Programador Fitness. Entusiasta de la educación digital. Maratonista(x11). Mente sana en cuerpo sano. Menos es más. #Celiaco por amor.
 ------------------------------------------
