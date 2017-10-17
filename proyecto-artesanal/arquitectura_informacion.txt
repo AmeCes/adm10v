@@ -1,0 +1,80 @@
+Inspiración
+  http://melaniedaveid.com/
+  http://naknak.me/
+  https://ethanmarcotte.com/
+  https://mxb.at/
+  http://bradfrost.com/
+------------------------------------------
+HOME
+  <jonmircha>
+  Instructor Web & Programador Fitness. Entusiasta de la educación digital. Maratonista(x11). Mente sana en cuerpo sano. Menos es más. #Celiaco por amor.
+------------------------------------------
+ACERCA
+  Soy Jonathan MirCha, instructor web y programador fitness de 33años ubicado en CDMX, México. Desde el 2004 tengo experiencia profesional en el área de la educación, el diseño y la programación web.
+
+  Imparto clases, charlas, conferencias, seminarios, diplomados y capacitación para diferentes empresas, instituciones educativas y comunidades en Internet.
+
+  Tambien desarrollo y colaboro en proyectos por cuenta propia. Estoy orientado al Frontend (HTML, CSS y mucho JavaScript) y al desarrollo en WordPress y Firebase.
+
+  Tengo un canal en YouTube (Bextlán) donde enseño sobre el maravilloso mundo de la web. Doy clases presenciales en ICONOS y Centro ADM. Colaboro como profesor en línea y bloguero en EDteam.
+
+  Llevo un estilo de vida fitness, me encanta hacer ejercicio y correr maratones, llevo 11, mi mejor tiempo es 3:33:38 en el maratón de San Francisco 2015.
+
+  Mi esposa es celiaca, por lo que llevo una alimentación muy sana y libre de gluten, lo que ha ayudado a mejorar mi condición física y mental.
+
+  Si quieres leer todo mi curriculum ve a mi perfil de linkedin.
+
+  SKILLS
+    Responsive & Adaptive Design
+    UI / UX / WPO
+    HTML / CSS / JavaScript
+    Markdown / Git / GitHub
+    Vanilla JS / ECMAScript / Node.js
+    Frameworks Frontend / jQuery / React
+    NPM / Gulp / Webpack
+    Pug / Sass / Babel
+    Express.js / Firebase
+    PHP / MySQL / WordPress
+    Flash / AS2 / AS3
+
+  EDUCATION
+    Maestria en Comunicación con Medios Virtuales (Pasante)
+    2012, ICONOS Instituto de Investigación en Comunicación y Cultura
+
+    Ingeniero en Sistemas
+    2006, UVM Universidad del Valle de México
+------------------------------------------
+PROYECTOS
+  texto y logos
+  -Bextlán es mi sitio de video tutoriales sobre el maravilloso mundo de la web, y son gratis :).
+  -Responsimple es una librería CSS que he creado para maquetar sitios con Flexbox.
+  -En EDteam imparto diferentes cursos sobre diseño y programación web, en este enlace puedes ver toda la información al respecto y puedes adquirirlos de por vida a un costo muy accesible.
+  -El Vlog de MirCha, en esta lista de reproducción encontrarás videos de diferentes temáticas de interés personal y profesional.
+  https://www.youtube.com/playlist?list=PLvq-jIkSeTUaourms9u_1KfoMtCWuLgvv
+  -Talleres, en esta lista de reproducción encontrarás videos de eventos, clases y charlas de diferentes comunidades web en las que participo.
+  https://www.youtube.com/playlist?list=PLvq-jIkSeTUbcJZztYZ4ijLzcl3xTbxEO
+------------------------------------------
+SITIOS
+  https://github.com/jonmircha/my-slides
+  http://malvestida.com/
+  http://bextlan.com/
+  http://reduitmanesco.com.mx/
+  http://slimdown.com.mx/
+  http://guardianes.org.mx/
+  http://conacer.com.mx/
+  http://promoleasing.com.mx/
+  http://somms.mx/
+  http://grupour.com/
+------------------------------------------
+BLOG
+  https://ed.team/mis-articulos
+------------------------------------------
+CONTACTO
+  https://twitter.com/@jonmircha
+  https://www.linkedin.com/in/jonmircha/
+  https://github.com/jonmircha
+  https://codepen.io/jonmircha/
+  https://www.youtube.com/bextlancom
+  https://www.instagram.com/jonmircha/
+  mail jonmircha@gmail.com
+  wa 521 5518388261
