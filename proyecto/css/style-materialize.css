@@ -1,0 +1,187 @@
+:root {
+  --main-color: #FF5700;
+  --font-color: #FFF;
+  --bg-color: #222;
+  --bg-color-opacity-5: rgba(0, 0, 0, .5);
+  --bg-color-opacity-75: rgba(0, 0, 0, .75);
+  --font-size: 16px;
+  --font-family: 'Raleway', sans-serif;
+}
+
+html {
+  font-family: var(--font-family);
+  font-size: var(--font-size);
+  color: var(--font-color);
+  background-color: var(--bg-color);
+}
+
+a {
+  color: var(--main-color);
+  transition: all .3s ease-out;
+}
+
+a:hover {
+  opacity: .75;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 1.17rem;
+  font-weight: bold;
+}
+
+::selection {
+  background-color: var(--main-color);
+  color: var(--font-color);
+}
+
+.u-section {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* small */
+.Home {
+  background-image: url('../img/edcamp-bogota-2017.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  background-attachment: fixed;
+}
+
+.Home-container {
+  background-color: var(--bg-color-opacity-5);
+  min-height: inherit;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Home-title {
+  font-size: 15vw;
+  font-weight: bold;
+}
+
+.Home-title span {
+  color: var(--main-color);
+}
+
+.Home-description {
+  width: 90%;
+  font-weight: bold;
+}
+
+.About-avatar img {
+  border-radius: 50%;
+  max-width: 150px;
+}
+
+.About-skills span {
+  font-weight: bold;
+  color: var(--main-color);
+}
+
+.Projects .card {
+  padding: 1rem;
+  border: thin solid var(--main-color);
+  color: var(--bg-color);
+}
+
+.Projects h2 {
+  text-align: center;
+}
+
+.Projects h2 .fa {
+  display: block;
+}
+
+.Projects h3 {
+  font-size: 1.2rem;
+}
+
+.Projects-website {
+  text-align: center;
+}
+
+.Projects .card-action a {
+  color: var(--main-color) !important;
+}
+
+.Contact {
+  background-image: url('../img/EDcamp-bogota-alumnos-2017.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  background-attachment: fixed;
+}
+
+.Contact-container {
+  background-color: var(--bg-color-opacity-75);
+  min-height: inherit;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.SocialMedia {
+  background-color: transparent;
+  text-align: center;
+}
+
+.SocialMedia li {
+  padding: 1rem;
+  width: calc(100% / 4);
+}
+
+.SocialMedia a {
+  font-size: 10vw;
+}
+
+/* medium */
+@media screen and (min-width: 37.5em) {
+  .Home-description { width: 75%; }
+
+  .SocialMedia a { font-size: 7.5vw; }
+}
+
+/* large */
+@media screen and (min-width: 62em) {
+  .Home-description { font-size: 1.5rem; }
+
+  .About-info {
+    font-size: .9rem;
+  }
+
+  .SocialMedia li {
+    width: calc(100% / 8);
+  }
+
+  .SocialMedia a {
+    font-size: 5vw;
+  }
+}
+
+/* extralarge */
+@media screen and (min-width: 75em) {
+  .Projects-education .row,
+  .Projects-code .row,
+  .Projects-personal .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .Projects-education .col,
+  .Projects-code .col,
+  .Projects-personal .col {
+    flex: auto;
+    display: flex;
+  }
+
+  .SocialMedia a { font-size: 4vw; }
+}
