@@ -12,10 +12,18 @@ Códigos del Grupo 10 Vespertino del Diplomado de Diseño Web de ADM
 
 * Miguel - miguel_ks88@hotmail.com
 * Sofia - sofy.haru@gmail.com
+* Varinia - vari.tex.7@gmail.com
 * Emmanuel - emmanuel_crisanto@hotmail.com
 * Daniel - danielg14d@icloud.com
-* Amellali - am.cespds@gmail.com
+* Cynthia - cynthiamilla@live.com
 
+
+## Sitios y Recomendaciones para el Diplomado
+
+* [Url del Repositorio](https://github.com/jonmircha/adm10v)
+* [Libro para aprender Git](https://git-scm.com/book/es/v1)
+* [HTML Reference](http://htmlreference.io/)
+* [CSS Reference](http://cssreference.io/)
 
 ### Actividades:
 
