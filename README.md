@@ -19,4 +19,4 @@ Códigos del Grupo 10 Vespertino del Diplomado de Diseño Web de ADM
 
 ### Actividades:
 
-1. Traer en un documento de texto: Una breve presentción (Datos Personales, Una foto, Pasatiempos, Datos de Contacto, Una breve descripción)
+
