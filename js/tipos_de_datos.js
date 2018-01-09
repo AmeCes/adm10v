@@ -10,6 +10,8 @@
 //Es buena práctica comenzar tu archivo con un punto y coma
 ;
 
+
+//https://ed.team/blog/ecmascript-el-estandar-de-javascript
 //Declaración y asignación de variables primitivas
 //Para declarar una variable en JS se utilizaba la palabra 'var. Ahora usamos 'const' o 'let'
 
@@ -83,3 +85,63 @@ console.log(
   libro
 )
  */
+
+//Declaración de funciones
+function saludar ( nombre = 'Desconocido' ) {
+  //concatenación de variables
+  console.log( 'Hola, ' + nombre + ', ¿cómo estás?' )
+  //interpolación de variables
+  console.log( `Hola, ${nombre}, ¿cómo estás?` )
+}
+
+//Invocación o ejecución de funciones
+saludar('Jonathan')
+saludar()
+
+//Declaración de arreglos
+const perros = [
+  'Husky',
+  'Labrador',
+  'Boxer',
+  'Pastor Alemán',
+  'Gran Danés',
+  'Maltés'
+]
+
+console.log(
+  perros,
+  perros.length,
+  perros[2],
+  perros[5],
+  perros[0],
+  perros[10]
+)
+
+const otroArreglo = [
+  'cadena',
+  1,
+  true,
+  { nombre: 'Jon', edad: 33 },
+  [ 'blanco', 'negro', 'naranja' ]
+]
+
+console.log(
+  otroArreglo[4][1],
+  otroArreglo[0],
+  otroArreglo[3].edad
+)
+
+
+//Funciones anónimas auto invocadas
+;(function (c, d, w, n) {
+  c('Hola consola')
+  c('Hola consola')
+  c(w, d, n)
+  c(n.userAgent)
+  c(n.geolocation)
+  const perros = ['Dálmata', 'Beagle', 'Bulldog', 'Border Collie', 'Doberman']
+  c(perros)
+})(console.log, document, window, navigator);
+
+
+console.log(perros)

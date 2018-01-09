@@ -19,4 +19,10 @@ Códigos del Grupo 10 Vespertino del Diplomado de Diseño Web de ADM
 
 ### Actividades:
 
+## Clase 2
 
+* Piensen en un objeto del mundo real, describan 5 características y 3 acciones
+
+  * Ejemplos:
+    * Perro: características (nombre, edad, raza, tamaño, color); acciones (ladran, corren, mueven la cola, comen)
+    * Silla: características (material, color, tamaño, plegable); acciones (sentar, recargar, subir)
